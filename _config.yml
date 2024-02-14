@@ -146,3 +146,4 @@ compress_html:
     ignore: {envs: development}
 defaults:
     - {scope: {path: "", type: posts}, values: {layout: single, author_profile: true, read_time: true, comments: null, share: true, related: true}}
+channel: bar1893
